@@ -28,9 +28,9 @@ export function getDefaultServerMeta(id: string, version: string, options?: Serv
             icon: 'How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon',
             address: 'localhost:25565',
             discord: {
-                shortId: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                largeImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                largeImageKey: '<FILL IN OR REMOVE DISCORD OBJECT>'
+                shortId: 'gs2.shibabox.eu:25565',
+                largeImageText: 'Adventuring...',
+                largeImageKey: 'logo'
             },
             mainServer: false,
             autoconnect: false

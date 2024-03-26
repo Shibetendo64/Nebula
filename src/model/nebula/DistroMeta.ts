@@ -19,9 +19,9 @@ export function getDefaultDistroMeta(): DistroMeta {
         meta: {
             rss: '<LINK TO RSS FEED>',
             discord: {
-                clientId: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                smallImageText: '<FILL IN OR REMOVE DISCORD OBJECT>',
-                smallImageKey: '<FILL IN OR REMOVE DISCORD OBJECT>'
+                clientId: '1045327726472597514',
+                smallImageText: 'Join our discord!',
+                smallImageKey: 'shibabox_head'
             }
         }
         
